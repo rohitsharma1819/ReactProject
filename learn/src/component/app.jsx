@@ -12,9 +12,6 @@ class App extends Component {
         ]
     }
 
-    componentDidMount(prevState, currentState) {
-        //console.log(prevState, currentState);
-    }
     render() {
         return (
             <React.Fragment>
